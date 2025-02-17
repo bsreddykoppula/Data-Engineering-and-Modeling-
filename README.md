@@ -38,6 +38,3 @@ Technologies used: Spark, S3, EMR, Parquet.
 * Transforming data from various sources into a star schema optimized for the analytics team's use cases.
 
 Technologies used: Apache Airflow, S3, Amazon Redshift, Python.
-
-----------------
-Projects and resources developed in the [DEND Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027) from Udacity.
