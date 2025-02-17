@@ -1,9 +1,9 @@
 # Sparkify Data Modeling
-![Sparkify](./Images/Sparkify.jpeg)
+[Sparkify]("C:\Users\bhara\Downloads\Sparkify.jpeg")
 
 A music streaming company, Sparkify, has decided that it is time to introduce more automation and monitoring to the data they collected. The case study depicts the choices that can be made by Sparkify to model and engineer the data.
 
-![Sparkify](./Images/evolution.jpg)
+![Sparkify]("C:\Users\bhara\Downloads\evolution.jpg")
 
 ## [Relational Data Modeling with PostgreSQL](https://github.com/iSagarDhungel/Sparkify-Data-Modeling/tree/master/Relational%20Data%20Modeling%20using%20Postgres).
 * Created a relational database using PostgreSQL
